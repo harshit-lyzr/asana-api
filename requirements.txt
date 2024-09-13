@@ -1,0 +1,4 @@
+asana==3.2.3
+fastapi
+uvicorn
+python-dotenv
